@@ -3,13 +3,16 @@
 ## Moje życie
 **Kalistenika**
 
-**Hejo ucze się programowania** 
-2022	
-**Pasja streetwokout**
+**Hejo ucze się programowania**\
+2022
+
+**Pasja streetwokout**\
 2016-2022
-**Coś nowego**
+
+**Coś nowego**\
 2002001 
-**Inspiracja**
+
+**Inspiracja**\
 20284 
 
 
