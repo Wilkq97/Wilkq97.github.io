@@ -1,6 +1,4 @@
-# Daniel Harłukiewicz
-
-# DanielWorkout.github.io
+# DanielWorkout
 
 **Dynamics Flow**
 
