@@ -1,18 +1,18 @@
 # Daniel Harłukiewicz
 
-## Moje życie
-**Kalistenika**
+# DanielWorkout.github.io
 
-**Hejo ucze się programowania**\
-2022
+**Dynamics Flow**
 
-**Pasja streetwokout**\
-2016-2022
+Daniel Harłukiewicz
 
-**Coś nowego**\
-2002001 
 
-**Inspiracja**\
-20284 
+## Welcome to My Page!
+
+**Cześć, nazywam się daniel i zaczynamy z trenowaniem.**
+
+### Kalistenika
+
+Trening z wykorzystaniem własnej masy ciała
 
 
